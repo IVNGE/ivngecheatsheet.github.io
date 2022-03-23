@@ -1,0 +1,75 @@
+.title {
+    color: white;
+    background-color: black;
+    font-family: monospace;
+    font-weight: normal;
+    text-align: center;
+    padding: 5px;
+    height: 50px;
+    font-size: 60px;
+    text-decoration: none;
+}
+
+.subtitle {
+    color: white;
+    background-color: black;
+    font-family: monospace;    
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    letter-spacing: 10px;
+}
+
+.title a {
+    text-decoration: none;
+    color: white;
+    width: 100%;
+}
+
+.title a:hover {
+    color: grey;
+    width: 100%;
+}
+
+div h2 {
+    color: white;
+    margin-bottom: 0px;
+    padding: 10px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: darkslategray;
+    text-align: left;
+    border: 1px, solid, black;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+table {
+    background-color: azure;
+    width: 100%;
+    border: 1px, solid;
+}
+
+th {
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+    background-color: cadetblue;
+    color: white;
+    font-weight: lighter;
+    padding: 5px;
+    text-align: left;
+}
+
+tr {
+    text-align: center;
+    color: grey;
+    padding: 1px;
+    font-family: monospace;
+    text-align: left;
+}
